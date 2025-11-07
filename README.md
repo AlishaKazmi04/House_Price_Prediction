@@ -1,10 +1,10 @@
-# 🏡 Indian House Price Prediction using Machine Learning
+#  Indian House Price Prediction using Machine Learning
 
 This project predicts house prices in India using a real-world dataset. It demonstrates a complete machine learning pipeline including data cleaning, encoding, scaling, model training, evaluation, and saving the best model for future predictions — all implemented in a Google Colab notebook.
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 - **Source:** [Kaggle – Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 - **Format:** CSV
@@ -17,14 +17,14 @@ This project predicts house prices in India using a real-world dataset. It demon
 - `mainroad`, `guestroom`, `basement`, `hotwaterheating`, `airconditioning`, `parking`, `prefarea`: Binary categorical features (`yes`/`no`)
 - `furnishingstatus`: Multi-class categorical feature (`furnished`, `semi-furnished`, `unfurnished`)
 
-### ⚠️ Challenges:
+###  Challenges:
 - Missing values in both numerical and categorical columns
 - Mixed data types requiring encoding
 - Skewed price distribution and presence of outliers
 
 ---
 
-## 🔧 Workflow Overview
+##  Workflow Overview
 - Data Cleaning & Imputation
 - Encoding Categorical Features
 - Feature Scaling
@@ -35,7 +35,7 @@ This project predicts house prices in India using a real-world dataset. It demon
 
 ---
 
-## 📊 Technologies Used
+##  Technologies Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
@@ -44,7 +44,7 @@ This project predicts house prices in India using a real-world dataset. It demon
 
 ---
 
-## 👥 Authors
+##  Authors
 **Alisha Kazmi**  
 **Aman Sharma**
 
